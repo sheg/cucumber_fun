@@ -1,0 +1,49 @@
+[0.000][INFO]:      ChromeDriver 21.0.1180.4 /Users/danielforkosh/Downloads/chromedriver
+[0.215][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.216][INFO]:      Using named testing interface
+[0.858][INFO]:      Connected to Chrome successfully. Version: 25.0.1364.152
+[0.892][FINE]:      Command received (/session/2a507a7b524781e11bf8afded526c26f)
+[0.892][FINE]:      Command finished (/session/2a507a7b524781e11bf8afded526c26f) with response {
+   "sessionId": "2a507a7b524781e11bf8afded526c26f",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "21.0.1180.4",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "mac",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "25.0.1364.152",
+      "webStorageEnabled": true
+   }
+}
+
+[0.894][FINE]:      Command received (/session/2a507a7b524781e11bf8afded526c26f/url) with params {
+   "url": "http://www.blogtalkradio.com"
+}
+
+[0.894][FINER]:     Waiting for all views to stop loading...
+[0.895][FINER]:     Done waiting for all views to stop loading

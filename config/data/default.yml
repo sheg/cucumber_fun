@@ -1,0 +1,10 @@
+login_page:
+  username: 
+  password: 
+
+settings_page:
+  first_name: ~first_name
+  last_name: ~last_name
+  email: ~email_address
+  display_name: ~city
+  contact_phone: ~phone_number
